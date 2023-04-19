@@ -33,12 +33,13 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.ControlDark;
             this.button1.Location = new System.Drawing.Point(236, 113);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(310, 178);
             this.button1.TabIndex = 0;
             this.button1.Text = "Brouckmeersch Luna";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
